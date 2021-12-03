@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Theminda Srimal
+### Hi there 👋 I'm Theminda Srimal <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "23" height= "23">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themindasrimal&layout=compact&theme=blue-green&hide=jupyter%20notebook&langs_count=10)](https://github.com/themindasrimal/github-readme-stats)
 
@@ -23,6 +23,7 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themindasrimal&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/themindasriaml/github-readme-streak-stats)
+
 
 ### Contact me
 
