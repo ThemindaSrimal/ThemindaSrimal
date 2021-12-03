@@ -2,8 +2,6 @@
 
 <br/>
 
-<a target="_blank"><img align="center" height="220" width="220" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themindasrimal&layout=compact&theme=blue-green&hide=jupyter%20notebook&langs_count=10#l)](https://github.com/themindasrimal/github-readme-stats)
 
 ## Tech stacks
