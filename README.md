@@ -1,11 +1,12 @@
-### Hi there 👋 I'm Theminda Srimal <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "23" height= "23">
+## Hi there <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /> I'm Theminda Srimal <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "28" height= "28">
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themindasrimal&layout=compact&theme=blue-green&hide=jupyter%20notebook&langs_count=10)](https://github.com/themindasrimal/github-readme-stats)
 
-### Tech stacks
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Tech stacks
 
+<!-- BLOG-POST-LIST:START -->
+<br/>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react-js" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="node-js" width="60" height="40"/> 
@@ -22,10 +23,18 @@
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
 </p>
 
+<!-- BLOG-POST-LIST:END -->  
+
+## GitHub stats
+<br/>
+
+<a target="_blank"><img align="left" height="220" width="220" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themindasrimal&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/themindasriaml/github-readme-streak-stats)
 
+## Connect with me
 
-### Contact me
+<br/>
 
 <a href="https://www.linkedin.com/in/theminda-srimal-0a895a189/">
   <img align="left" alt="Theminda's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
