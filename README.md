@@ -28,3 +28,5 @@
 <a href="https://www.linkedin.com/in/theminda-srimal-0a895a189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="themindasrimal" height="30" width="30" /></a>
 <a href="https://www.facebook.com/theminda.srimal.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="themindasrimal" height="30" width="30" /></a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themindasrimal&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/themindasriaml/github-readme-streak-stats)
