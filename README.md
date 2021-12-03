@@ -1,7 +1,10 @@
 ## Hi there <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /> I'm Theminda Srimal <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "28" height= "28">
+
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themindasrimal&layout=compact&theme=blue-green&hide=jupyter%20notebook&langs_count=10)](https://github.com/themindasrimal/github-readme-stats)
+<a target="_blank"><img align="center" height="220" width="220" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themindasrimal&layout=compact&theme=blue-green&hide=jupyter%20notebook&langs_count=10#l)](https://github.com/themindasrimal/github-readme-stats)
 
 ## Tech stacks
 
@@ -27,8 +30,6 @@
 
 ## GitHub stats
 <br/>
-
-<a target="_blank"><img align="left" height="220" width="220" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themindasrimal&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/themindasriaml/github-readme-streak-stats)
 
