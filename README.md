@@ -22,11 +22,28 @@
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themindasrimal&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/themindasriaml/github-readme-streak-stats)
+
 ### Contact me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/theminda-srimal-0a895a189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="themindasrimal" height="30" width="30" /></a>
-<a href="https://www.facebook.com/theminda.srimal.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="themindasrimal" height="30" width="30" /></a>
-</p>
+<a href="https://www.linkedin.com/in/theminda-srimal-0a895a189/">
+  <img align="left" alt="Theminda's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/ThemindaSrimal">
+  <img align="left" alt="Theminda's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/ThemindaSrimal">
+  <img align="left" alt="Theminda's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/themindasrimal/">
+  <img align="left" alt="Theminda's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/theminda.srimal.7">
+  <img align="left" alt="Theminda's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCmj58P7o7ukcCdJRQ-qIUvg">
+  <img align="left" alt="Theminda's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themindasrimal&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/themindasriaml/github-readme-streak-stats)
+<br/>
+<br/>
