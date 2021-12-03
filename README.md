@@ -21,3 +21,10 @@
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>   
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
 </p>
+
+### Contact me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/theminda-srimal-0a895a189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="themindasrimal" height="30" width="30" /></a>
+<a href="https://www.facebook.com/theminda.srimal.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="themindasrimal" height="30" width="30" /></a>
+</p>
