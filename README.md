@@ -2,6 +2,8 @@
 
 <br/>
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ThemindaSrimal&count_private=true&theme=blue-green&show_icons=true)]()
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themindasrimal&layout=compact&theme=blue-green&hide=jupyter%20notebook&langs_count=10#l)](https://github.com/themindasrimal/github-readme-stats)
 
 ## Tech stacks
