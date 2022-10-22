@@ -24,6 +24,8 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="wordpress" width="40" height="40"/>   
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>   
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="bootstrap" width="40" height="40"/> 
 </p>
 
 <!-- BLOG-POST-LIST:END -->  
